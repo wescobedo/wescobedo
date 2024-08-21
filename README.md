@@ -2,10 +2,10 @@ Hola soy Waldo Escobedo, Ingeniero en Informática de la Universidad de Chile.
 Tengo mas de 30 años de experiencia en diversas áreas de TI:
 - Infraestructura Tecnológica
 - Telecomunicaciones
-- Gestion de Proyectos
+- Gestión de Proyectos
 - Servicios y contratos
 - Desarrollo de Apliciones de Negocio
-- Programacion en Cobol y Full Stack Java
+- Programación en Cobol y Full Stack Java
   
 He trabajado en empresas multinacionales como Exxonmobil, Petrobas y nacionales como Esmax.
 
