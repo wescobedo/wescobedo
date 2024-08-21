@@ -4,7 +4,7 @@ Tengo mas de 30 años de experiencia en diversas áreas de TI:
 - Telecomunicaciones
 - Gestión de Proyectos
 - Servicios y contratos
-- Desarrollo de Apliciones de Negocio
+- Desarrollo de Aplicaciones de Negocio
 - Programación en Cobol y Full Stack Java
   
 He trabajado en empresas multinacionales como Exxonmobil, Petrobas y nacionales como Esmax.
